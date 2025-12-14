@@ -1,0 +1,2543 @@
+{
+  "category": "CET-4",
+  "words": [
+    {
+      "english": "abandon",
+      "chinese": "放弃，抛弃",
+      "phonetic": "/əˈbændən/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "He abandoned his car in the snow.",
+      "exampleTranslation": "他把车丢弃在雪地里。",
+      "difficulty": 2
+    },
+    {
+      "english": "ability",
+      "chinese": "能力，才能",
+      "phonetic": "/əˈbɪləti/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She has the ability to solve complex problems.",
+      "exampleTranslation": "她有解决复杂问题的能力。",
+      "difficulty": 1
+    },
+    {
+      "english": "absent",
+      "chinese": "缺席的，不在的",
+      "phonetic": "/ˈæbsənt/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "He was absent from school yesterday.",
+      "exampleTranslation": "他昨天没来上学。",
+      "difficulty": 1
+    },
+    {
+      "english": "absolute",
+      "chinese": "绝对的，完全的",
+      "phonetic": "/ˈæbsəluːt/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "There is no absolute truth in this matter.",
+      "exampleTranslation": "这件事没有绝对的真理。",
+      "difficulty": 2
+    },
+    {
+      "english": "absorb",
+      "chinese": "吸收，理解",
+      "phonetic": "/əbˈsɔːrb/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Plants absorb carbon dioxide from the air.",
+      "exampleTranslation": "植物从空气中吸收二氧化碳。",
+      "difficulty": 2
+    },
+    {
+      "english": "academic",
+      "chinese": "学术的，学业的",
+      "phonetic": "/ˌækəˈdemɪk/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "His academic performance has improved significantly.",
+      "exampleTranslation": "他的学业成绩显著提高了。",
+      "difficulty": 2
+    },
+    {
+      "english": "accept",
+      "chinese": "接受，承认",
+      "phonetic": "/əkˈsept/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I cannot accept your proposal.",
+      "exampleTranslation": "我不能接受你的建议。",
+      "difficulty": 1
+    },
+    {
+      "english": "access",
+      "chinese": "通道，接近",
+      "phonetic": "/ˈækses/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Students need access to a computer lab.",
+      "exampleTranslation": "学生需要使用计算机实验室。",
+      "difficulty": 2
+    },
+    {
+      "english": "accident",
+      "chinese": "事故，意外",
+      "phonetic": "/ˈæksɪdənt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "There was a serious accident on the highway.",
+      "exampleTranslation": "高速公路上发生了一起严重事故。",
+      "difficulty": 1
+    },
+    {
+      "english": "accomplish",
+      "chinese": "完成，实现",
+      "phonetic": "/əˈkʌmplɪʃ/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "We accomplished our mission successfully.",
+      "exampleTranslation": "我们成功完成了任务。",
+      "difficulty": 2
+    },
+    {
+      "english": "according",
+      "chinese": "根据，按照",
+      "phonetic": "/əˈkɔːrdɪŋ/",
+      "partOfSpeech": "prep.",
+      "exampleSentence": "According to the weather forecast, it will rain tomorrow.",
+      "exampleTranslation": "根据天气预报，明天会下雨。",
+      "difficulty": 1
+    },
+    {
+      "english": "account",
+      "chinese": "账户，解释",
+      "phonetic": "/əˈkaʊnt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "I need to check my bank account.",
+      "exampleTranslation": "我需要查看我的银行账户。",
+      "difficulty": 2
+    },
+    {
+      "english": "accurate",
+      "chinese": "准确的，精确的",
+      "phonetic": "/ˈækjərət/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "The report contains accurate information.",
+      "exampleTranslation": "报告包含准确的信息。",
+      "difficulty": 2
+    },
+    {
+      "english": "achieve",
+      "chinese": "达到，完成",
+      "phonetic": "/əˈtʃiːv/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "She achieved her goal of becoming a doctor.",
+      "exampleTranslation": "她实现了成为医生的目标。",
+      "difficulty": 2
+    },
+    {
+      "english": "acknowledge",
+      "chinese": "承认，答谢",
+      "phonetic": "/əkˈnɒlɪdʒ/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "He acknowledged his mistake publicly.",
+      "exampleTranslation": "他公开承认了自己的错误。",
+      "difficulty": 3
+    },
+    {
+      "english": "acquire",
+      "chinese": "获得，学到",
+      "phonetic": "/əˈkwaɪər/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Children acquire language naturally.",
+      "exampleTranslation": "儿童自然地习得语言。",
+      "difficulty": 2
+    },
+    {
+      "english": "active",
+      "chinese": "积极的，活跃的",
+      "phonetic": "/ˈæktɪv/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "She is an active member of the club.",
+      "exampleTranslation": "她是俱乐部的活跃成员。",
+      "difficulty": 1
+    },
+    {
+      "english": "actual",
+      "chinese": "实际的，真实的",
+      "phonetic": "/ˈæktʃuəl/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "The actual cost was higher than expected.",
+      "exampleTranslation": "实际成本比预期的高。",
+      "difficulty": 2
+    },
+    {
+      "english": "adapt",
+      "chinese": "适应，改编",
+      "phonetic": "/əˈdæpt/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Animals adapt to their environment.",
+      "exampleTranslation": "动物适应它们的环境。",
+      "difficulty": 2
+    },
+    {
+      "english": "addition",
+      "chinese": "增加，添加",
+      "phonetic": "/əˈdɪʃn/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "In addition to English, she speaks French.",
+      "exampleTranslation": "除了英语，她还说法语。",
+      "difficulty": 2
+    },
+    {
+      "english": "adequate",
+      "chinese": "足够的，适当的",
+      "phonetic": "/ˈædɪkwət/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "We need adequate resources to complete the project.",
+      "exampleTranslation": "我们需要足够的资源来完成这个项目。",
+      "difficulty": 2
+    },
+    {
+      "english": "adjust",
+      "chinese": "调整，适应",
+      "phonetic": "/əˈdʒʌst/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "You can adjust the temperature with this dial.",
+      "exampleTranslation": "你可以用这个旋钮调节温度。",
+      "difficulty": 2
+    },
+    {
+      "english": "admire",
+      "chinese": "钦佩，欣赏",
+      "phonetic": "/ədˈmaɪər/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I admire her courage and determination.",
+      "exampleTranslation": "我钦佩她的勇气和决心。",
+      "difficulty": 2
+    },
+    {
+      "english": "admit",
+      "chinese": "承认，准许进入",
+      "phonetic": "/ədˈmɪt/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "He admitted making a mistake.",
+      "exampleTranslation": "他承认犯了一个错误。",
+      "difficulty": 2
+    },
+    {
+      "english": "adopt",
+      "chinese": "采用，收养",
+      "phonetic": "/əˈdɒpt/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "They decided to adopt a child.",
+      "exampleTranslation": "他们决定收养一个孩子。",
+      "difficulty": 2
+    },
+    {
+      "english": "adult",
+      "chinese": "成年人",
+      "phonetic": "/ˈædʌlt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The program is designed for adults only.",
+      "exampleTranslation": "这个项目只为成年人设计。",
+      "difficulty": 1
+    },
+    {
+      "english": "advance",
+      "chinese": "前进，提前",
+      "phonetic": "/ədˈvɑːns/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Technology continues to advance rapidly.",
+      "exampleTranslation": "技术继续快速进步。",
+      "difficulty": 2
+    },
+    {
+      "english": "advantage",
+      "chinese": "优势，好处",
+      "phonetic": "/ədˈvɑːntɪdʒ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "One advantage of online shopping is convenience.",
+      "exampleTranslation": "网上购物的一个优势是方便。",
+      "difficulty": 2
+    },
+    {
+      "english": "adventure",
+      "chinese": "冒险，奇遇",
+      "phonetic": "/ədˈventʃər/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Their trip to the jungle was quite an adventure.",
+      "exampleTranslation": "他们的丛林之旅是一次真正的冒险。",
+      "difficulty": 2
+    },
+    {
+      "english": "advertise",
+      "chinese": "做广告，宣传",
+      "phonetic": "/ˈædvərtaɪz/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Companies advertise their products on television.",
+      "exampleTranslation": "公司在电视上为他们的产品做广告。",
+      "difficulty": 2
+    },
+    {
+      "english": "advice",
+      "chinese": "建议，劝告",
+      "phonetic": "/ədˈvaɪs/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Can you give me some advice on this matter?",
+      "exampleTranslation": "你能就这件事给我一些建议吗？",
+      "difficulty": 1
+    },
+    {
+      "english": "affect",
+      "chinese": "影响，感动",
+      "phonetic": "/əˈfekt/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "The weather will affect our travel plans.",
+      "exampleTranslation": "天气将影响我们的旅行计划。",
+      "difficulty": 2
+    },
+    {
+      "english": "afford",
+      "chinese": "负担得起，提供",
+      "phonetic": "/əˈfɔːrd/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I cannot afford to buy a new car.",
+      "exampleTranslation": "我买不起新车。",
+      "difficulty": 2
+    },
+    {
+      "english": "afraid",
+      "chinese": "害怕的，担心的",
+      "phonetic": "/əˈfreɪd/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "Don't be afraid of making mistakes.",
+      "exampleTranslation": "不要害怕犯错误。",
+      "difficulty": 1
+    },
+    {
+      "english": "agency",
+      "chinese": "代理，机构",
+      "phonetic": "/ˈeɪdʒənsi/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She works for a travel agency.",
+      "exampleTranslation": "她在一家旅行社工作。",
+      "difficulty": 2
+    },
+    {
+      "english": "aggressive",
+      "chinese": "侵略性的，好斗的",
+      "phonetic": "/əˈɡresɪv/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "His aggressive behavior caused problems.",
+      "exampleTranslation": "他的好斗行为引起了问题。",
+      "difficulty": 2
+    },
+    {
+      "english": "agriculture",
+      "chinese": "农业",
+      "phonetic": "/ˈæɡrɪkʌltʃər/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Agriculture is important for the economy.",
+      "exampleTranslation": "农业对经济很重要。",
+      "difficulty": 2
+    },
+    {
+      "english": "aim",
+      "chinese": "目标，瞄准",
+      "phonetic": "/eɪm/",
+      "partOfSpeech": "n./v.",
+      "exampleSentence": "The aim of this project is to reduce waste.",
+      "exampleTranslation": "这个项目的目标是减少浪费。",
+      "difficulty": 2
+    },
+    {
+      "english": "aircraft",
+      "chinese": "飞机",
+      "phonetic": "/ˈeəkrɑːft/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The aircraft landed safely at the airport.",
+      "exampleTranslation": "飞机安全降落在机场。",
+      "difficulty": 2
+    },
+    {
+      "english": "alarm",
+      "chinese": "警报，惊慌",
+      "phonetic": "/əˈlɑːrm/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The fire alarm went off unexpectedly.",
+      "exampleTranslation": "火警意外响起。",
+      "difficulty": 2
+    },
+    {
+      "english": "alcohol",
+      "chinese": "酒精，酒",
+      "phonetic": "/ˈælkəhɒl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Alcohol is not allowed in the dormitory.",
+      "exampleTranslation": "宿舍里不允许喝酒。",
+      "difficulty": 2
+    },
+    {
+      "english": "alert",
+      "chinese": "警觉的，警报",
+      "phonetic": "/əˈlɜːrt/",
+      "partOfSpeech": "adj./n.",
+      "exampleSentence": "Stay alert while driving at night.",
+      "exampleTranslation": "夜间开车时要保持警觉。",
+      "difficulty": 2
+    },
+    {
+      "english": "alien",
+      "chinese": "外星人，外国的",
+      "phonetic": "/ˈeɪliən/",
+      "partOfSpeech": "n./adj.",
+      "exampleSentence": "The concept seems alien to most people.",
+      "exampleTranslation": "这个概念对大多数人来说很陌生。",
+      "difficulty": 2
+    },
+    {
+      "english": "alike",
+      "chinese": "相似的，同样地",
+      "phonetic": "/əˈlaɪk/",
+      "partOfSpeech": "adj./adv.",
+      "exampleSentence": "The two sisters look very much alike.",
+      "exampleTranslation": "这两姐妹看起来非常相像。",
+      "difficulty": 2
+    },
+    {
+      "english": "alive",
+      "chinese": "活着的，有活力的",
+      "phonetic": "/əˈlaɪv/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "The fish is still alive.",
+      "exampleTranslation": "这条鱼还活着。",
+      "difficulty": 1
+    },
+    {
+      "english": "alloy",
+      "chinese": "合金",
+      "phonetic": "/ˈælɔɪ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Bronze is an alloy of copper and tin.",
+      "exampleTranslation": "青铜是铜和锡的合金。",
+      "difficulty": 3
+    },
+    {
+      "english": "allow",
+      "chinese": "允许，准许",
+      "phonetic": "/əˈlaʊ/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Smoking is not allowed in this building.",
+      "exampleTranslation": "这栋楼里不允许吸烟。",
+      "difficulty": 1
+    },
+    {
+      "english": "almost",
+      "chinese": "几乎，差不多",
+      "phonetic": "/ˈɔːlməʊst/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "It's almost time to go.",
+      "exampleTranslation": "差不多该走了。",
+      "difficulty": 1
+    },
+    {
+      "english": "alone",
+      "chinese": "单独的，独自地",
+      "phonetic": "/əˈləʊn/",
+      "partOfSpeech": "adj./adv.",
+      "exampleSentence": "She lives alone in the city.",
+      "exampleTranslation": "她独自一人住在城里。",
+      "difficulty": 1
+    },
+    {
+      "english": "along",
+      "chinese": "沿着，向前",
+      "phonetic": "/əˈlɒŋ/",
+      "partOfSpeech": "prep./adv.",
+      "exampleSentence": "We walked along the river.",
+      "exampleTranslation": "我们沿着河边走。",
+      "difficulty": 1
+    },
+    {
+      "english": "aloud",
+      "chinese": "大声地",
+      "phonetic": "/əˈlaʊd/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "Please read the passage aloud.",
+      "exampleTranslation": "请大声朗读这段话。",
+      "difficulty": 2
+    },
+    {
+      "english": "alphabet",
+      "chinese": "字母表",
+      "phonetic": "/ˈælfəbet/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Children learn the alphabet in kindergarten.",
+      "exampleTranslation": "孩子们在幼儿园学习字母表。",
+      "difficulty": 1
+    },
+    {
+      "english": "already",
+      "chinese": "已经",
+      "phonetic": "/ɔːlˈredi/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "I have already finished my homework.",
+      "exampleTranslation": "我已经完成了作业。",
+      "difficulty": 1
+    },
+    {
+      "english": "alter",
+      "chinese": "改变，修改",
+      "phonetic": "/ˈɔːltər/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "We need to alter our plans.",
+      "exampleTranslation": "我们需要改变我们的计划。",
+      "difficulty": 2
+    },
+    {
+      "english": "alternative",
+      "chinese": "替代的，选择",
+      "phonetic": "/ɔːlˈtɜːrnətɪv/",
+      "partOfSpeech": "adj./n.",
+      "exampleSentence": "We have no alternative but to wait.",
+      "exampleTranslation": "除了等待，我们别无选择。",
+      "difficulty": 2
+    },
+    {
+      "english": "although",
+      "chinese": "虽然，尽管",
+      "phonetic": "/ɔːlˈðəʊ/",
+      "partOfSpeech": "conj.",
+      "exampleSentence": "Although it was raining, we went out.",
+      "exampleTranslation": "虽然下雨了，我们还是出去了。",
+      "difficulty": 1
+    },
+    {
+      "english": "altitude",
+      "chinese": "高度，海拔",
+      "phonetic": "/ˈæltɪtjuːd/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The plane is flying at an altitude of 30,000 feet.",
+      "exampleTranslation": "飞机正在30,000英尺的高度飞行。",
+      "difficulty": 3
+    },
+    {
+      "english": "altogether",
+      "chinese": "完全地，总共",
+      "phonetic": "/ˌɔːltəˈɡeðər/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "There were twelve people altogether.",
+      "exampleTranslation": "总共有十二个人。",
+      "difficulty": 2
+    },
+    {
+      "english": "aluminum",
+      "chinese": "铝",
+      "phonetic": "/əˈluːmɪnəm/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The frame is made of aluminum.",
+      "exampleTranslation": "框架是铝制的。",
+      "difficulty": 2
+    },
+    {
+      "english": "always",
+      "chinese": "总是，一直",
+      "phonetic": "/ˈɔːlweɪz/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "She always arrives on time.",
+      "exampleTranslation": "她总是准时到达。",
+      "difficulty": 1
+    },
+    {
+      "english": "amaze",
+      "chinese": "使惊奇",
+      "phonetic": "/əˈmeɪz/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Her talent never ceases to amaze me.",
+      "exampleTranslation": "她的才华总是让我惊叹不已。",
+      "difficulty": 2
+    },
+    {
+      "english": "ambition",
+      "chinese": "雄心，野心",
+      "phonetic": "/æmˈbɪʃn/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "His ambition is to become a successful entrepreneur.",
+      "exampleTranslation": "他的雄心是成为一名成功的企业家。",
+      "difficulty": 2
+    },
+    {
+      "english": "ambulance",
+      "chinese": "救护车",
+      "phonetic": "/ˈæmbjələns/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Call an ambulance immediately!",
+      "exampleTranslation": "马上叫救护车！",
+      "difficulty": 2
+    },
+    {
+      "english": "among",
+      "chinese": "在...之中",
+      "phonetic": "/əˈmʌŋ/",
+      "partOfSpeech": "prep.",
+      "exampleSentence": "He was among the first to arrive.",
+      "exampleTranslation": "他是最早到达的人之一。",
+      "difficulty": 1
+    },
+    {
+      "english": "amount",
+      "chinese": "数量，总计",
+      "phonetic": "/əˈmaʊnt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "A large amount of money was stolen.",
+      "exampleTranslation": "一大笔钱被盗了。",
+      "difficulty": 2
+    },
+    {
+      "english": "ample",
+      "chinese": "充足的，丰富的",
+      "phonetic": "/ˈæmpl/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "We have ample time to finish the work.",
+      "exampleTranslation": "我们有充足的时间完成工作。",
+      "difficulty": 3
+    },
+    {
+      "english": "amuse",
+      "chinese": "使娱乐，逗乐",
+      "phonetic": "/əˈmjuːz/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "The clown amused the children.",
+      "exampleTranslation": "小丑逗乐了孩子们。",
+      "difficulty": 2
+    },
+    {
+      "english": "analyse",
+      "chinese": "分析",
+      "phonetic": "/ˈænəlaɪz/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Scientists analyze data carefully.",
+      "exampleTranslation": "科学家仔细分析数据。",
+      "difficulty": 2
+    },
+    {
+      "english": "ancient",
+      "chinese": "古代的，古老的",
+      "phonetic": "/ˈeɪnʃənt/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "Ancient civilizations built impressive monuments.",
+      "exampleTranslation": "古代文明建造了令人印象深刻的纪念碑。",
+      "difficulty": 2
+    },
+    {
+      "english": "anger",
+      "chinese": "愤怒，生气",
+      "phonetic": "/ˈæŋɡər/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "He couldn't control his anger.",
+      "exampleTranslation": "他无法控制自己的愤怒。",
+      "difficulty": 2
+    },
+    {
+      "english": "angle",
+      "chinese": "角，角度",
+      "phonetic": "/ˈæŋɡl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Look at the problem from a different angle.",
+      "exampleTranslation": "从不同的角度看这个问题。",
+      "difficulty": 2
+    },
+    {
+      "english": "angry",
+      "chinese": "生气的，愤怒的",
+      "phonetic": "/ˈæŋɡri/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "She was angry about the delay.",
+      "exampleTranslation": "她对延误感到生气。",
+      "difficulty": 1
+    },
+    {
+      "english": "animal",
+      "chinese": "动物",
+      "phonetic": "/ˈænɪml/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Many animals live in the forest.",
+      "exampleTranslation": "许多动物生活在森林里。",
+      "difficulty": 1
+    },
+    {
+      "english": "ankle",
+      "chinese": "脚踝",
+      "phonetic": "/ˈæŋkl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She twisted her ankle while running.",
+      "exampleTranslation": "她跑步时扭伤了脚踝。",
+      "difficulty": 2
+    },
+    {
+      "english": "announce",
+      "chinese": "宣布，通告",
+      "phonetic": "/əˈnaʊns/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "The company will announce its decision tomorrow.",
+      "exampleTranslation": "公司明天将宣布其决定。",
+      "difficulty": 2
+    },
+    {
+      "english": "annoy",
+      "chinese": "使恼怒，打扰",
+      "phonetic": "/əˈnɔɪ/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "The noise really annoys me.",
+      "exampleTranslation": "这噪音真的让我很恼火。",
+      "difficulty": 2
+    },
+    {
+      "english": "annual",
+      "chinese": "每年的，年度的",
+      "phonetic": "/ˈænjuəl/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "We attend an annual conference every year.",
+      "exampleTranslation": "我们每年参加年度会议。",
+      "difficulty": 2
+    },
+    {
+      "english": "another",
+      "chinese": "另一个，再一个",
+      "phonetic": "/əˈnʌðər/",
+      "partOfSpeech": "adj./pron.",
+      "exampleSentence": "Would you like another cup of coffee?",
+      "exampleTranslation": "你想再来一杯咖啡吗？",
+      "difficulty": 1
+    },
+    {
+      "english": "answer",
+      "chinese": "回答，答案",
+      "phonetic": "/ˈɑːnsər/",
+      "partOfSpeech": "n./v.",
+      "exampleSentence": "I don't know the answer to this question.",
+      "exampleTranslation": "我不知道这个问题的答案。",
+      "difficulty": 1
+    },
+    {
+      "english": "anticipate",
+      "chinese": "预期，期望",
+      "phonetic": "/ænˈtɪsɪpeɪt/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "We anticipate a positive response.",
+      "exampleTranslation": "我们期待积极的回应。",
+      "difficulty": 3
+    },
+    {
+      "english": "anxious",
+      "chinese": "焦虑的，渴望的",
+      "phonetic": "/ˈæŋkʃəs/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "She feels anxious about the exam.",
+      "exampleTranslation": "她对考试感到焦虑。",
+      "difficulty": 2
+    },
+    {
+      "english": "any",
+      "chinese": "任何的，一些",
+      "phonetic": "/ˈeni/",
+      "partOfSpeech": "adj./pron.",
+      "exampleSentence": "Do you have any questions?",
+      "exampleTranslation": "你有什么问题吗？",
+      "difficulty": 1
+    },
+    {
+      "english": "anybody",
+      "chinese": "任何人",
+      "phonetic": "/ˈenibɒdi/",
+      "partOfSpeech": "pron.",
+      "exampleSentence": "Is anybody home?",
+      "exampleTranslation": "有人在家吗？",
+      "difficulty": 1
+    },
+    {
+      "english": "anyhow",
+      "chinese": "无论如何，不管怎样",
+      "phonetic": "/ˈenihaʊ/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "Anyhow, we should try our best.",
+      "exampleTranslation": "无论如何，我们应该尽力而为。",
+      "difficulty": 2
+    },
+    {
+      "english": "anyone",
+      "chinese": "任何人",
+      "phonetic": "/ˈeniwʌn/",
+      "partOfSpeech": "pron.",
+      "exampleSentence": "Anyone can learn to cook.",
+      "exampleTranslation": "任何人都可以学习做饭。",
+      "difficulty": 1
+    },
+    {
+      "english": "anything",
+      "chinese": "任何事物",
+      "phonetic": "/ˈeniθɪŋ/",
+      "partOfSpeech": "pron.",
+      "exampleSentence": "You can ask me anything.",
+      "exampleTranslation": "你可以问我任何事情。",
+      "difficulty": 1
+    },
+    {
+      "english": "anyway",
+      "chinese": "无论如何",
+      "phonetic": "/ˈeniweɪ/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "Anyway, let's move on to the next topic.",
+      "exampleTranslation": "无论如何，让我们继续下一个话题。",
+      "difficulty": 1
+    },
+    {
+      "english": "anywhere",
+      "chinese": "任何地方",
+      "phonetic": "/ˈeniweər/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "You can sit anywhere you like.",
+      "exampleTranslation": "你可以坐在任何你喜欢的地方。",
+      "difficulty": 1
+    },
+    {
+      "english": "apart",
+      "chinese": "分开，相距",
+      "phonetic": "/əˈpɑːrt/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "They live far apart from each other.",
+      "exampleTranslation": "他们彼此住得很远。",
+      "difficulty": 2
+    },
+    {
+      "english": "apartment",
+      "chinese": "公寓",
+      "phonetic": "/əˈpɑːrtmənt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She rents a small apartment in the city.",
+      "exampleTranslation": "她在城里租了一套小公寓。",
+      "difficulty": 2
+    },
+    {
+      "english": "apologize",
+      "chinese": "道歉，认错",
+      "phonetic": "/əˈpɒlədʒaɪz/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I apologize for being late.",
+      "exampleTranslation": "我为迟到道歉。",
+      "difficulty": 2
+    },
+    {
+      "english": "apparent",
+      "chinese": "明显的，显然的",
+      "phonetic": "/əˈpærənt/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "It was apparent that he was lying.",
+      "exampleTranslation": "很明显他在撒谎。",
+      "difficulty": 2
+    },
+    {
+      "english": "appeal",
+      "chinese": "呼吁，吸引",
+      "phonetic": "/əˈpiːl/",
+      "partOfSpeech": "v./n.",
+      "exampleSentence": "The charity appealed for donations.",
+      "exampleTranslation": "慈善机构呼吁捐款。",
+      "difficulty": 2
+    },
+    {
+      "english": "appear",
+      "chinese": "出现，显得",
+      "phonetic": "/əˈpɪər/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "A figure appeared in the doorway.",
+      "exampleTranslation": "门口出现了一个人影。",
+      "difficulty": 2
+    },
+    {
+      "english": "appetite",
+      "chinese": "食欲，胃口",
+      "phonetic": "/ˈæpɪtaɪt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Exercise gives you a good appetite.",
+      "exampleTranslation": "运动让你胃口大开。",
+      "difficulty": 2
+    },
+    {
+      "english": "apple",
+      "chinese": "苹果",
+      "phonetic": "/ˈæpl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "An apple a day keeps the doctor away.",
+      "exampleTranslation": "一天一个苹果，医生远离我。",
+      "difficulty": 1
+    },
+    {
+      "english": "application",
+      "chinese": "申请，应用",
+      "phonetic": "/ˌæplɪˈkeɪʃn/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Please submit your application online.",
+      "exampleTranslation": "请在线提交您的申请。",
+      "difficulty": 2
+    },
+    {
+      "english": "apply",
+      "chinese": "申请，应用",
+      "phonetic": "/əˈplaɪ/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I plan to apply for a scholarship.",
+      "exampleTranslation": "我计划申请奖学金。",
+      "difficulty": 2
+    },
+    {
+      "english": "appoint",
+      "chinese": "任命，指定",
+      "phonetic": "/əˈpɔɪnt/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "They appointed her as the new manager.",
+      "exampleTranslation": "他们任命她为新经理。",
+      "difficulty": 2
+    },
+    {
+      "english": "appreciate",
+      "chinese": "欣赏，感激",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I really appreciate your help.",
+      "exampleTranslation": "我真的很感激你的帮助。",
+      "difficulty": 2
+    },
+    {
+      "english": "approach",
+      "chinese": "接近，方法",
+      "phonetic": "/əˈprəʊtʃ/",
+      "partOfSpeech": "v./n.",
+      "exampleSentence": "We need a new approach to this problem.",
+      "exampleTranslation": "我们需要一个新的方法来解决这个问题。",
+      "difficulty": 2
+    },
+    {
+      "english": "appropriate",
+      "chinese": "适当的，恰当的",
+      "phonetic": "/əˈprəʊpriət/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "Wear appropriate clothing for the occasion.",
+      "exampleTranslation": "穿着适合这个场合的服装。",
+      "difficulty": 2
+    },
+    {
+      "english": "approve",
+      "chinese": "批准，赞成",
+      "phonetic": "/əˈpruːv/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "The committee approved the proposal.",
+      "exampleTranslation": "委员会批准了这项提案。",
+      "difficulty": 2
+    },
+    {
+      "english": "approximately",
+      "chinese": "大约，近似地",
+      "phonetic": "/əˈprɒksɪmətli/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "The journey takes approximately two hours.",
+      "exampleTranslation": "旅程大约需要两个小时。",
+      "difficulty": 2
+    },
+    {
+      "english": "April",
+      "chinese": "四月",
+      "phonetic": "/ˈeɪprəl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Her birthday is in April.",
+      "exampleTranslation": "她的生日在四月。",
+      "difficulty": 1
+    },
+    {
+      "english": "arbitrary",
+      "chinese": "任意的，武断的",
+      "phonetic": "/ˈɑːrbɪtreri/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "The decision seemed arbitrary and unfair.",
+      "exampleTranslation": "这个决定似乎是武断和不公平的。",
+      "difficulty": 3
+    },
+    {
+      "english": "architect",
+      "chinese": "建筑师",
+      "phonetic": "/ˈɑːrkɪtekt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The architect designed a beautiful building.",
+      "exampleTranslation": "建筑师设计了一座漂亮的建筑。",
+      "difficulty": 2
+    },
+    {
+      "english": "architecture",
+      "chinese": "建筑学，建筑风格",
+      "phonetic": "/ˈɑːrkɪtektʃər/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She studies architecture at university.",
+      "exampleTranslation": "她在大学学习建筑学。",
+      "difficulty": 2
+    },
+    {
+      "english": "area",
+      "chinese": "地区，面积",
+      "phonetic": "/ˈeəriə/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "This is a residential area.",
+      "exampleTranslation": "这是一个住宅区。",
+      "difficulty": 2
+    },
+    {
+      "english": "argue",
+      "chinese": "争论，辩论",
+      "phonetic": "/ˈɑːrɡjuː/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "They always argue about politics.",
+      "exampleTranslation": "他们总是争论政治。",
+      "difficulty": 2
+    },
+    {
+      "english": "argument",
+      "chinese": "争论，论据",
+      "phonetic": "/ˈɑːrɡjumənt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Their argument lasted for hours.",
+      "exampleTranslation": "他们的争论持续了几个小时。",
+      "difficulty": 2
+    },
+    {
+      "english": "arise",
+      "chinese": "出现，产生",
+      "phonetic": "/əˈraɪz/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Problems may arise during the project.",
+      "exampleTranslation": "项目期间可能会出现问题。",
+      "difficulty": 2
+    },
+    {
+      "english": "arithmetic",
+      "chinese": "算术",
+      "phonetic": "/əˈrɪθmətɪk/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Basic arithmetic includes addition and subtraction.",
+      "exampleTranslation": "基础算术包括加法和减法。",
+      "difficulty": 2
+    },
+    {
+      "english": "arm",
+      "chinese": "手臂，武器",
+      "phonetic": "/ɑːrm/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "He broke his arm in the accident.",
+      "exampleTranslation": "他在事故中摔断了手臂。",
+      "difficulty": 1
+    },
+    {
+      "english": "army",
+      "chinese": "军队，陆军",
+      "phonetic": "/ˈɑːrmi/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "He served in the army for five years.",
+      "exampleTranslation": "他在军队服役了五年。",
+      "difficulty": 2
+    },
+    {
+      "english": "around",
+      "chinese": "周围，大约",
+      "phonetic": "/əˈraʊnd/",
+      "partOfSpeech": "prep./adv.",
+      "exampleSentence": "There are trees all around the house.",
+      "exampleTranslation": "房子周围都是树。",
+      "difficulty": 1
+    },
+    {
+      "english": "arouse",
+      "chinese": "唤醒，激起",
+      "phonetic": "/əˈraʊz/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "The speech aroused strong emotions.",
+      "exampleTranslation": "演讲激起了强烈的情感。",
+      "difficulty": 3
+    },
+    {
+      "english": "arrange",
+      "chinese": "安排，整理",
+      "phonetic": "/əˈreɪndʒ/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Let me arrange a meeting for next week.",
+      "exampleTranslation": "让我安排下周的会议。",
+      "difficulty": 2
+    },
+    {
+      "english": "arrest",
+      "chinese": "逮捕，拘留",
+      "phonetic": "/əˈrest/",
+      "partOfSpeech": "v./n.",
+      "exampleSentence": "The police arrested the suspect.",
+      "exampleTranslation": "警察逮捕了嫌疑人。",
+      "difficulty": 2
+    },
+    {
+      "english": "arrival",
+      "chinese": "到达，抵达",
+      "phonetic": "/əˈraɪvl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "We announced the arrival of the new product.",
+      "exampleTranslation": "我们宣布了新产品的到来。",
+      "difficulty": 2
+    },
+    {
+      "english": "arrive",
+      "chinese": "到达，抵达",
+      "phonetic": "/əˈraɪv/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "What time does the train arrive?",
+      "exampleTranslation": "火车什么时候到达？",
+      "difficulty": 1
+    },
+    {
+      "english": "arrow",
+      "chinese": "箭，箭头",
+      "phonetic": "/ˈærəʊ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Follow the arrow to find the exit.",
+      "exampleTranslation": "跟随箭头找到出口。",
+      "difficulty": 2
+    },
+    {
+      "english": "art",
+      "chinese": "艺术，美术",
+      "phonetic": "/ɑːrt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She loves modern art.",
+      "exampleTranslation": "她喜欢现代艺术。",
+      "difficulty": 1
+    },
+    {
+      "english": "article",
+      "chinese": "文章，物品",
+      "phonetic": "/ˈɑːrtɪkl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "I read an interesting article in the newspaper.",
+      "exampleTranslation": "我在报纸上读到一篇有趣的文章。",
+      "difficulty": 2
+    },
+    {
+      "english": "artificial",
+      "chinese": "人造的，人工的",
+      "phonetic": "/ˌɑːrtɪˈfɪʃl/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "Artificial intelligence is developing rapidly.",
+      "exampleTranslation": "人工智能正在快速发展。",
+      "difficulty": 2
+    },
+    {
+      "english": "artist",
+      "chinese": "艺术家，画家",
+      "phonetic": "/ˈɑːrtɪst/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The artist painted a beautiful portrait.",
+      "exampleTranslation": "艺术家画了一幅美丽的肖像。",
+      "difficulty": 2
+    },
+    {
+      "english": "artistic",
+      "chinese": "艺术的，有艺术才能的",
+      "phonetic": "/ɑːrˈtɪstɪk/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "She has great artistic talent.",
+      "exampleTranslation": "她有很高的艺术天赋。",
+      "difficulty": 2
+    },
+    {
+      "english": "as",
+      "chinese": "作为，当...时",
+      "phonetic": "/æz/",
+      "partOfSpeech": "conj./prep.",
+      "exampleSentence": "As a teacher, she is very patient.",
+      "exampleTranslation": "作为一名教师，她非常有耐心。",
+      "difficulty": 1
+    },
+    {
+      "english": "ashamed",
+      "chinese": "羞愧的，惭愧的",
+      "phonetic": "/əˈʃeɪmd/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "He felt ashamed of his behavior.",
+      "exampleTranslation": "他为自己的行为感到羞愧。",
+      "difficulty": 2
+    },
+    {
+      "english": "aside",
+      "chinese": "在旁边，到一边",
+      "phonetic": "/əˈsaɪd/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "Please step aside and let others pass.",
+      "exampleTranslation": "请靠边站，让其他人通过。",
+      "difficulty": 2
+    },
+    {
+      "english": "ask",
+      "chinese": "问，要求",
+      "phonetic": "/ɑːsk/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "May I ask you a question?",
+      "exampleTranslation": "我可以问你一个问题吗？",
+      "difficulty": 1
+    },
+    {
+      "english": "asleep",
+      "chinese": "睡着的",
+      "phonetic": "/əˈsliːp/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "The baby is asleep in the crib.",
+      "exampleTranslation": "婴儿在婴儿床里睡着了。",
+      "difficulty": 1
+    },
+    {
+      "english": "aspect",
+      "chinese": "方面，样子",
+      "phonetic": "/ˈæspekt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "We need to consider every aspect of the problem.",
+      "exampleTranslation": "我们需要考虑问题的每个方面。",
+      "difficulty": 2
+    },
+    {
+      "english": "assemble",
+      "chinese": "集合，装配",
+      "phonetic": "/əˈsembl/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Students assembled in the auditorium.",
+      "exampleTranslation": "学生们在礼堂集合。",
+      "difficulty": 2
+    },
+    {
+      "english": "assembly",
+      "chinese": "集会，装配",
+      "phonetic": "/əˈsembli/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The school holds a weekly assembly.",
+      "exampleTranslation": "学校每周举行一次集会。",
+      "difficulty": 2
+    },
+    {
+      "english": "assert",
+      "chinese": "断言，主张",
+      "phonetic": "/əˈsɜːrt/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "She asserted her independence.",
+      "exampleTranslation": "她坚持自己的独立性。",
+      "difficulty": 3
+    },
+    {
+      "english": "assess",
+      "chinese": "评估，评定",
+      "phonetic": "/əˈses/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Teachers assess students' progress regularly.",
+      "exampleTranslation": "教师定期评估学生的进步。",
+      "difficulty": 2
+    },
+    {
+      "english": "assign",
+      "chinese": "分配，指派",
+      "phonetic": "/əˈsaɪn/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "The manager assigned tasks to each team member.",
+      "exampleTranslation": "经理给每个团队成员分配了任务。",
+      "difficulty": 2
+    },
+    {
+      "english": "assignment",
+      "chinese": "任务，作业",
+      "phonetic": "/əˈsaɪnmənt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "I have to finish this assignment by Friday.",
+      "exampleTranslation": "我必须在星期五之前完成这项作业。",
+      "difficulty": 2
+    },
+    {
+      "english": "assist",
+      "chinese": "帮助，协助",
+      "phonetic": "/əˈsɪst/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Can you assist me with this project?",
+      "exampleTranslation": "你能帮我做这个项目吗？",
+      "difficulty": 2
+    },
+    {
+      "english": "assistant",
+      "chinese": "助手，助理",
+      "phonetic": "/əˈsɪstənt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She works as an assistant to the director.",
+      "exampleTranslation": "她担任主任的助理。",
+      "difficulty": 2
+    },
+    {
+      "english": "associate",
+      "chinese": "联想，联合",
+      "phonetic": "/əˈsəʊʃieɪt/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I associate summer with vacation.",
+      "exampleTranslation": "我把夏天和假期联系在一起。",
+      "difficulty": 2
+    },
+    {
+      "english": "association",
+      "chinese": "协会，联想",
+      "phonetic": "/əˌsəʊsiˈeɪʃn/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "He joined the teachers' association.",
+      "exampleTranslation": "他加入了教师协会。",
+      "difficulty": 2
+    },
+    {
+      "english": "assume",
+      "chinese": "假定，承担",
+      "phonetic": "/əˈsjuːm/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I assume you have read the instructions.",
+      "exampleTranslation": "我假定你已经读过说明了。",
+      "difficulty": 2
+    },
+    {
+      "english": "assumption",
+      "chinese": "假定，假设",
+      "phonetic": "/əˈsʌmpʃn/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "That assumption turned out to be wrong.",
+      "exampleTranslation": "那个假设被证明是错误的。",
+      "difficulty": 2
+    },
+    {
+      "english": "assure",
+      "chinese": "保证，使确信",
+      "phonetic": "/əˈʃʊər/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I assure you that everything will be fine.",
+      "exampleTranslation": "我向你保证一切都会好起来的。",
+      "difficulty": 2
+    },
+    {
+      "english": "astonish",
+      "chinese": "使惊讶",
+      "phonetic": "/əˈstɒnɪʃ/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "The news astonished everyone.",
+      "exampleTranslation": "这个消息让每个人都很惊讶。",
+      "difficulty": 2
+    },
+    {
+      "english": "astronaut",
+      "chinese": "宇航员",
+      "phonetic": "/ˈæstrənɔːt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She dreams of becoming an astronaut.",
+      "exampleTranslation": "她梦想成为一名宇航员。",
+      "difficulty": 2
+    },
+    {
+      "english": "athlete",
+      "chinese": "运动员",
+      "phonetic": "/ˈæθliːt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "He is a professional athlete.",
+      "exampleTranslation": "他是一名职业运动员。",
+      "difficulty": 2
+    },
+    {
+      "english": "athletic",
+      "chinese": "运动的，健壮的",
+      "phonetic": "/æθˈletɪk/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "She has an athletic build.",
+      "exampleTranslation": "她体格健壮。",
+      "difficulty": 2
+    },
+    {
+      "english": "atmosphere",
+      "chinese": "大气，气氛",
+      "phonetic": "/ˈætməsfɪər/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The restaurant has a friendly atmosphere.",
+      "exampleTranslation": "这家餐厅气氛友好。",
+      "difficulty": 2
+    },
+    {
+      "english": "atom",
+      "chinese": "原子",
+      "phonetic": "/ˈætəm/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "An atom is the smallest unit of matter.",
+      "exampleTranslation": "原子是物质的最小单位。",
+      "difficulty": 2
+    },
+    {
+      "english": "attach",
+      "chinese": "附上，系上",
+      "phonetic": "/əˈtætʃ/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Please attach the file to your email.",
+      "exampleTranslation": "请在邮件中附上文件。",
+      "difficulty": 2
+    },
+    {
+      "english": "attack",
+      "chinese": "攻击，抨击",
+      "phonetic": "/əˈtæk/",
+      "partOfSpeech": "v./n.",
+      "exampleSentence": "The army launched an attack at dawn.",
+      "exampleTranslation": "军队在黎明时发起了攻击。",
+      "difficulty": 2
+    },
+    {
+      "english": "attain",
+      "chinese": "达到，获得",
+      "phonetic": "/əˈteɪn/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "She attained her goal through hard work.",
+      "exampleTranslation": "她通过努力工作实现了目标。",
+      "difficulty": 3
+    },
+    {
+      "english": "attempt",
+      "chinese": "尝试，企图",
+      "phonetic": "/əˈtempt/",
+      "partOfSpeech": "v./n.",
+      "exampleSentence": "He made an attempt to climb the mountain.",
+      "exampleTranslation": "他尝试攀登这座山。",
+      "difficulty": 2
+    },
+    {
+      "english": "attend",
+      "chinese": "出席，参加",
+      "phonetic": "/əˈtend/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I will attend the conference tomorrow.",
+      "exampleTranslation": "我明天将参加会议。",
+      "difficulty": 2
+    },
+    {
+      "english": "attention",
+      "chinese": "注意，关心",
+      "phonetic": "/əˈtenʃn/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Please pay attention to the instructions.",
+      "exampleTranslation": "请注意说明。",
+      "difficulty": 2
+    },
+    {
+      "english": "attitude",
+      "chinese": "态度，看法",
+      "phonetic": "/ˈætɪtjuːd/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "He has a positive attitude toward life.",
+      "exampleTranslation": "他对生活持积极态度。",
+      "difficulty": 2
+    },
+    {
+      "english": "attorney",
+      "chinese": "律师",
+      "phonetic": "/əˈtɜːrni/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She hired an attorney to represent her.",
+      "exampleTranslation": "她雇了一名律师来代表她。",
+      "difficulty": 3
+    },
+    {
+      "english": "attract",
+      "chinese": "吸引，引起",
+      "phonetic": "/əˈtrækt/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "The museum attracts many visitors.",
+      "exampleTranslation": "博物馆吸引了许多游客。",
+      "difficulty": 2
+    },
+    {
+      "english": "attraction",
+      "chinese": "吸引，吸引力",
+      "phonetic": "/əˈtrækʃn/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The main attraction is the castle.",
+      "exampleTranslation": "主要景点是城堡。",
+      "difficulty": 2
+    },
+    {
+      "english": "attractive",
+      "chinese": "吸引人的，有魅力的",
+      "phonetic": "/əˈtræktɪv/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "She is a very attractive person.",
+      "exampleTranslation": "她是一个非常有魅力的人。",
+      "difficulty": 2
+    },
+    {
+      "english": "attribute",
+      "chinese": "归因于，属性",
+      "phonetic": "/əˈtrɪbjuːt/",
+      "partOfSpeech": "v./n.",
+      "exampleSentence": "We attribute our success to hard work.",
+      "exampleTranslation": "我们把成功归功于努力工作。",
+      "difficulty": 3
+    },
+    {
+      "english": "audience",
+      "chinese": "观众，听众",
+      "phonetic": "/ˈɔːdiəns/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The audience applauded loudly.",
+      "exampleTranslation": "观众热烈鼓掌。",
+      "difficulty": 2
+    },
+    {
+      "english": "audio",
+      "chinese": "音频的，声音的",
+      "phonetic": "/ˈɔːdiəʊ/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "The audio quality is excellent.",
+      "exampleTranslation": "音频质量非常好。",
+      "difficulty": 2
+    },
+    {
+      "english": "August",
+      "chinese": "八月",
+      "phonetic": "/ˈɔːɡəst/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "School starts in August.",
+      "exampleTranslation": "学校在八月开学。",
+      "difficulty": 1
+    },
+    {
+      "english": "aunt",
+      "chinese": "姑母，阿姨",
+      "phonetic": "/ɑːnt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "My aunt lives in New York.",
+      "exampleTranslation": "我的阿姨住在纽约。",
+      "difficulty": 1
+    },
+    {
+      "english": "authentic",
+      "chinese": "真正的，可靠的",
+      "phonetic": "/ɔːˈθentɪk/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "This is an authentic Italian restaurant.",
+      "exampleTranslation": "这是一家正宗的意大利餐厅。",
+      "difficulty": 3
+    },
+    {
+      "english": "author",
+      "chinese": "作者，作家",
+      "phonetic": "/ˈɔːθər/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The author wrote several bestsellers.",
+      "exampleTranslation": "作者写了几本畅销书。",
+      "difficulty": 2
+    },
+    {
+      "english": "authority",
+      "chinese": "权威，当局",
+      "phonetic": "/ɔːˈθɒrəti/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She is an authority on this subject.",
+      "exampleTranslation": "她是这个领域的权威。",
+      "difficulty": 2
+    },
+    {
+      "english": "auto",
+      "chinese": "汽车",
+      "phonetic": "/ˈɔːtəʊ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The auto industry is growing rapidly.",
+      "exampleTranslation": "汽车工业正在快速增长。",
+      "difficulty": 2
+    },
+    {
+      "english": "automatic",
+      "chinese": "自动的",
+      "phonetic": "/ˌɔːtəˈmætɪk/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "This door has an automatic lock.",
+      "exampleTranslation": "这扇门有自动锁。",
+      "difficulty": 2
+    },
+    {
+      "english": "automobile",
+      "chinese": "汽车",
+      "phonetic": "/ˈɔːtəməbiːl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The automobile was invented in the 19th century.",
+      "exampleTranslation": "汽车是在19世纪发明的。",
+      "difficulty": 2
+    },
+    {
+      "english": "autumn",
+      "chinese": "秋天，秋季",
+      "phonetic": "/ˈɔːtəm/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The leaves change color in autumn.",
+      "exampleTranslation": "秋天树叶会变色。",
+      "difficulty": 1
+    },
+    {
+      "english": "auxiliary",
+      "chinese": "辅助的，备用的",
+      "phonetic": "/ɔːɡˈzɪliəri/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "We have an auxiliary power supply.",
+      "exampleTranslation": "我们有备用电源。",
+      "difficulty": 3
+    },
+    {
+      "english": "available",
+      "chinese": "可得到的，可利用的",
+      "phonetic": "/əˈveɪləbl/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "The tickets are available online.",
+      "exampleTranslation": "票可以在网上购买。",
+      "difficulty": 2
+    },
+    {
+      "english": "avenue",
+      "chinese": "大街，途径",
+      "phonetic": "/ˈævənjuː/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "They live on Park Avenue.",
+      "exampleTranslation": "他们住在公园大道。",
+      "difficulty": 2
+    },
+    {
+      "english": "average",
+      "chinese": "平均的，普通的",
+      "phonetic": "/ˈævərɪdʒ/",
+      "partOfSpeech": "adj./n.",
+      "exampleSentence": "The average temperature is 20 degrees.",
+      "exampleTranslation": "平均温度是20度。",
+      "difficulty": 2
+    },
+    {
+      "english": "avoid",
+      "chinese": "避免，躲开",
+      "phonetic": "/əˈvɔɪd/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "You should avoid eating too much sugar.",
+      "exampleTranslation": "你应该避免吃太多糖。",
+      "difficulty": 2
+    },
+    {
+      "english": "awake",
+      "chinese": "醒着的，唤醒",
+      "phonetic": "/əˈweɪk/",
+      "partOfSpeech": "adj./v.",
+      "exampleSentence": "Are you still awake?",
+      "exampleTranslation": "你还醒着吗？",
+      "difficulty": 2
+    },
+    {
+      "english": "award",
+      "chinese": "奖，奖品",
+      "phonetic": "/əˈwɔːrd/",
+      "partOfSpeech": "n./v.",
+      "exampleSentence": "She won an award for her research.",
+      "exampleTranslation": "她因研究获得了奖项。",
+      "difficulty": 2
+    },
+    {
+      "english": "aware",
+      "chinese": "意识到的，知道的",
+      "phonetic": "/əˈweər/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "I am aware of the problem.",
+      "exampleTranslation": "我意识到了这个问题。",
+      "difficulty": 2
+    },
+    {
+      "english": "away",
+      "chinese": "离开，远离",
+      "phonetic": "/əˈweɪ/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "She moved away from the city.",
+      "exampleTranslation": "她搬离了城市。",
+      "difficulty": 1
+    },
+    {
+      "english": "awful",
+      "chinese": "可怕的，极坏的",
+      "phonetic": "/ˈɔːfl/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "The weather was awful yesterday.",
+      "exampleTranslation": "昨天天气糟透了。",
+      "difficulty": 2
+    },
+    {
+      "english": "awkward",
+      "chinese": "笨拙的，尴尬的",
+      "phonetic": "/ˈɔːkwərd/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "There was an awkward silence.",
+      "exampleTranslation": "出现了尴尬的沉默。",
+      "difficulty": 2
+    },
+    {
+      "english": "axis",
+      "chinese": "轴，轴线",
+      "phonetic": "/ˈæksɪs/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The Earth rotates on its axis.",
+      "exampleTranslation": "地球绕着它的轴旋转。",
+      "difficulty": 3
+    },
+    {
+      "english": "baby",
+      "chinese": "婴儿，宝宝",
+      "phonetic": "/ˈbeɪbi/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The baby is sleeping peacefully.",
+      "exampleTranslation": "宝宝正在安静地睡觉。",
+      "difficulty": 1
+    },
+    {
+      "english": "bachelor",
+      "chinese": "单身汉，学士",
+      "phonetic": "/ˈbætʃələr/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "He holds a bachelor's degree in engineering.",
+      "exampleTranslation": "他拥有工程学学士学位。",
+      "difficulty": 2
+    },
+    {
+      "english": "back",
+      "chinese": "后面的，背部",
+      "phonetic": "/bæk/",
+      "partOfSpeech": "adj./n./adv.",
+      "exampleSentence": "I'll be back in an hour.",
+      "exampleTranslation": "我一小时后回来。",
+      "difficulty": 1
+    },
+    {
+      "english": "background",
+      "chinese": "背景",
+      "phonetic": "/ˈbækɡraʊnd/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She has a strong educational background.",
+      "exampleTranslation": "她有很强的教育背景。",
+      "difficulty": 2
+    },
+    {
+      "english": "backward",
+      "chinese": "向后的，落后的",
+      "phonetic": "/ˈbækwərd/",
+      "partOfSpeech": "adj./adv.",
+      "exampleSentence": "Take one step backward.",
+      "exampleTranslation": "向后退一步。",
+      "difficulty": 2
+    },
+    {
+      "english": "bacon",
+      "chinese": "培根，熏肉",
+      "phonetic": "/ˈbeɪkən/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "I had bacon and eggs for breakfast.",
+      "exampleTranslation": "我早餐吃了培根和鸡蛋。",
+      "difficulty": 2
+    },
+    {
+      "english": "bacteria",
+      "chinese": "细菌",
+      "phonetic": "/bækˈtɪəriə/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Bacteria can cause diseases.",
+      "exampleTranslation": "细菌会导致疾病。",
+      "difficulty": 2
+    },
+    {
+      "english": "bad",
+      "chinese": "坏的，糟糕的",
+      "phonetic": "/bæd/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "That was a bad idea.",
+      "exampleTranslation": "那是个坏主意。",
+      "difficulty": 1
+    },
+    {
+      "english": "badly",
+      "chinese": "严重地，非常",
+      "phonetic": "/ˈbædli/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "He was badly injured in the accident.",
+      "exampleTranslation": "他在事故中受了重伤。",
+      "difficulty": 2
+    },
+    {
+      "english": "badminton",
+      "chinese": "羽毛球",
+      "phonetic": "/ˈbædmɪntən/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "We play badminton every weekend.",
+      "exampleTranslation": "我们每个周末都打羽毛球。",
+      "difficulty": 2
+    },
+    {
+      "english": "bag",
+      "chinese": "袋子，包",
+      "phonetic": "/bæɡ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She carried a shopping bag.",
+      "exampleTranslation": "她拎着一个购物袋。",
+      "difficulty": 1
+    },
+    {
+      "english": "baggage",
+      "chinese": "行李",
+      "phonetic": "/ˈbæɡɪdʒ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Please collect your baggage at the airport.",
+      "exampleTranslation": "请在机场领取你的行李。",
+      "difficulty": 2
+    },
+    {
+      "english": "bake",
+      "chinese": "烘，烤",
+      "phonetic": "/beɪk/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "She likes to bake cookies.",
+      "exampleTranslation": "她喜欢烤饼干。",
+      "difficulty": 2
+    },
+    {
+      "english": "balance",
+      "chinese": "平衡，余额",
+      "phonetic": "/ˈbæləns/",
+      "partOfSpeech": "n./v.",
+      "exampleSentence": "You need to maintain a work-life balance.",
+      "exampleTranslation": "你需要保持工作和生活的平衡。",
+      "difficulty": 2
+    },
+    {
+      "english": "ball",
+      "chinese": "球，舞会",
+      "phonetic": "/bɔːl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The children are playing with a ball.",
+      "exampleTranslation": "孩子们正在玩球。",
+      "difficulty": 1
+    },
+    {
+      "english": "balloon",
+      "chinese": "气球",
+      "phonetic": "/bəˈluːn/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The children love colorful balloons.",
+      "exampleTranslation": "孩子们喜欢五颜六色的气球。",
+      "difficulty": 1
+    },
+    {
+      "english": "ballot",
+      "chinese": "选票，投票",
+      "phonetic": "/ˈbælət/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Citizens cast their ballots in the election.",
+      "exampleTranslation": "公民在选举中投票。",
+      "difficulty": 3
+    },
+    {
+      "english": "ban",
+      "chinese": "禁止，取缔",
+      "phonetic": "/bæn/",
+      "partOfSpeech": "v./n.",
+      "exampleSentence": "The government banned smoking in public places.",
+      "exampleTranslation": "政府禁止在公共场所吸烟。",
+      "difficulty": 2
+    },
+    {
+      "english": "banana",
+      "chinese": "香蕉",
+      "phonetic": "/bəˈnɑːnə/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Bananas are rich in potassium.",
+      "exampleTranslation": "香蕉富含钾。",
+      "difficulty": 1
+    },
+    {
+      "english": "band",
+      "chinese": "乐队，带子",
+      "phonetic": "/bænd/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The band played at the festival.",
+      "exampleTranslation": "乐队在节日上演奏。",
+      "difficulty": 2
+    },
+    {
+      "english": "bandage",
+      "chinese": "绷带",
+      "phonetic": "/ˈbændɪdʒ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She put a bandage on the wound.",
+      "exampleTranslation": "她在伤口上贴了绷带。",
+      "difficulty": 2
+    },
+    {
+      "english": "bang",
+      "chinese": "猛敲，砰的一声",
+      "phonetic": "/bæŋ/",
+      "partOfSpeech": "v./n.",
+      "exampleSentence": "I heard a loud bang outside.",
+      "exampleTranslation": "我听到外面一声巨响。",
+      "difficulty": 2
+    },
+    {
+      "english": "bank",
+      "chinese": "银行，岸边",
+      "phonetic": "/bæŋk/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "I need to go to the bank today.",
+      "exampleTranslation": "我今天需要去银行。",
+      "difficulty": 1
+    },
+    {
+      "english": "bankrupt",
+      "chinese": "破产的",
+      "phonetic": "/ˈbæŋkrʌpt/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "The company went bankrupt last year.",
+      "exampleTranslation": "公司去年破产了。",
+      "difficulty": 3
+    },
+    {
+      "english": "banner",
+      "chinese": "旗帜，横幅",
+      "phonetic": "/ˈbænər/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "They hung a banner to welcome the visitors.",
+      "exampleTranslation": "他们挂了一条横幅欢迎访客。",
+      "difficulty": 2
+    },
+    {
+      "english": "bar",
+      "chinese": "酒吧，条",
+      "phonetic": "/bɑːr/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Let's meet at the bar tonight.",
+      "exampleTranslation": "我们今晚在酒吧见面吧。",
+      "difficulty": 2
+    },
+    {
+      "english": "barber",
+      "chinese": "理发师",
+      "phonetic": "/ˈbɑːrbər/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "I need to go to the barber for a haircut.",
+      "exampleTranslation": "我需要去理发师那里剪头发。",
+      "difficulty": 2
+    },
+    {
+      "english": "bare",
+      "chinese": "赤裸的，仅仅的",
+      "phonetic": "/beər/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "The room was bare except for a bed.",
+      "exampleTranslation": "房间里除了一张床什么都没有。",
+      "difficulty": 2
+    },
+    {
+      "english": "bargain",
+      "chinese": "便宜货，讨价还价",
+      "phonetic": "/ˈbɑːrɡən/",
+      "partOfSpeech": "n./v.",
+      "exampleSentence": "I got a real bargain at the sale.",
+      "exampleTranslation": "我在促销中买到了真正的便宜货。",
+      "difficulty": 2
+    },
+    {
+      "english": "bark",
+      "chinese": "吠叫，树皮",
+      "phonetic": "/bɑːrk/",
+      "partOfSpeech": "v./n.",
+      "exampleSentence": "The dog barked loudly.",
+      "exampleTranslation": "狗大声吠叫。",
+      "difficulty": 2
+    },
+    {
+      "english": "barn",
+      "chinese": "谷仓，畜棚",
+      "phonetic": "/bɑːrn/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The farmer stores hay in the barn.",
+      "exampleTranslation": "农民把干草存放在谷仓里。",
+      "difficulty": 2
+    },
+    {
+      "english": "barrel",
+      "chinese": "桶，枪管",
+      "phonetic": "/ˈbærəl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The wine is stored in oak barrels.",
+      "exampleTranslation": "葡萄酒储存在橡木桶中。",
+      "difficulty": 2
+    },
+    {
+      "english": "barrier",
+      "chinese": "障碍，屏障",
+      "phonetic": "/ˈbæriər/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Language is not a barrier to communication.",
+      "exampleTranslation": "语言不是沟通的障碍。",
+      "difficulty": 2
+    },
+    {
+      "english": "base",
+      "chinese": "基础，基地",
+      "phonetic": "/beɪs/",
+      "partOfSpeech": "n./v.",
+      "exampleSentence": "The company has its base in London.",
+      "exampleTranslation": "公司的总部在伦敦。",
+      "difficulty": 2
+    },
+    {
+      "english": "baseball",
+      "chinese": "棒球",
+      "phonetic": "/ˈbeɪsbɔːl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Baseball is popular in America.",
+      "exampleTranslation": "棒球在美国很受欢迎。",
+      "difficulty": 2
+    },
+    {
+      "english": "basement",
+      "chinese": "地下室",
+      "phonetic": "/ˈbeɪsmənt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "We store old furniture in the basement.",
+      "exampleTranslation": "我们把旧家具存放在地下室。",
+      "difficulty": 2
+    },
+    {
+      "english": "basic",
+      "chinese": "基本的，基础的",
+      "phonetic": "/ˈbeɪsɪk/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "These are the basic rules of grammar.",
+      "exampleTranslation": "这些是语法的基本规则。",
+      "difficulty": 2
+    },
+    {
+      "english": "basin",
+      "chinese": "盆，流域",
+      "phonetic": "/ˈbeɪsn/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Fill the basin with water.",
+      "exampleTranslation": "把盆装满水。",
+      "difficulty": 2
+    },
+    {
+      "english": "basis",
+      "chinese": "基础，根据",
+      "phonetic": "/ˈbeɪsɪs/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "What is the basis for your decision?",
+      "exampleTranslation": "你的决定是基于什么？",
+      "difficulty": 2
+    },
+    {
+      "english": "basket",
+      "chinese": "篮子，筐",
+      "phonetic": "/ˈbɑːskɪt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She carried a basket of fruit.",
+      "exampleTranslation": "她拎着一篮水果。",
+      "difficulty": 1
+    },
+    {
+      "english": "basketball",
+      "chinese": "篮球",
+      "phonetic": "/ˈbɑːskɪtbɔːl/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "He plays basketball every day.",
+      "exampleTranslation": "他每天打篮球。",
+      "difficulty": 1
+    },
+    {
+      "english": "bat",
+      "chinese": "蝙蝠，球拍",
+      "phonetic": "/bæt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Bats are active at night.",
+      "exampleTranslation": "蝙蝠在夜间活动。",
+      "difficulty": 2
+    },
+    {
+      "english": "batch",
+      "chinese": "一批，一组",
+      "phonetic": "/bætʃ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "We received a batch of new books.",
+      "exampleTranslation": "我们收到了一批新书。",
+      "difficulty": 2
+    },
+    {
+      "english": "bath",
+      "chinese": "洗澡，浴缸",
+      "phonetic": "/bɑːθ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "I take a bath every evening.",
+      "exampleTranslation": "我每天晚上洗澡。",
+      "difficulty": 1
+    },
+    {
+      "english": "bathe",
+      "chinese": "洗澡，沐浴",
+      "phonetic": "/beɪð/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "She bathed the baby carefully.",
+      "exampleTranslation": "她小心地给宝宝洗澡。",
+      "difficulty": 2
+    },
+    {
+      "english": "bathroom",
+      "chinese": "浴室，卫生间",
+      "phonetic": "/ˈbɑːθruːm/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The bathroom is upstairs.",
+      "exampleTranslation": "浴室在楼上。",
+      "difficulty": 1
+    },
+    {
+      "english": "battery",
+      "chinese": "电池，电池组",
+      "phonetic": "/ˈbætəri/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The battery needs to be charged.",
+      "exampleTranslation": "电池需要充电。",
+      "difficulty": 2
+    },
+    {
+      "english": "battle",
+      "chinese": "战斗，战役",
+      "phonetic": "/ˈbætl/",
+      "partOfSpeech": "n./v.",
+      "exampleSentence": "The soldiers fought bravely in battle.",
+      "exampleTranslation": "士兵们在战斗中英勇作战。",
+      "difficulty": 2
+    },
+    {
+      "english": "bay",
+      "chinese": "海湾，湾",
+      "phonetic": "/beɪ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The ship sailed into the bay.",
+      "exampleTranslation": "船驶入了海湾。",
+      "difficulty": 2
+    },
+    {
+      "english": "beach",
+      "chinese": "海滩，沙滩",
+      "phonetic": "/biːtʃ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "We spent the day at the beach.",
+      "exampleTranslation": "我们在海滩度过了一天。",
+      "difficulty": 1
+    },
+    {
+      "english": "beam",
+      "chinese": "光束，横梁",
+      "phonetic": "/biːm/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "A beam of light shone through the window.",
+      "exampleTranslation": "一束光从窗户照进来。",
+      "difficulty": 2
+    },
+    {
+      "english": "bean",
+      "chinese": "豆，豆子",
+      "phonetic": "/biːn/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Green beans are good for your health.",
+      "exampleTranslation": "青豆对你的健康有益。",
+      "difficulty": 1
+    },
+    {
+      "english": "bear",
+      "chinese": "熊，承受",
+      "phonetic": "/beər/",
+      "partOfSpeech": "n./v.",
+      "exampleSentence": "I can't bear the pain anymore.",
+      "exampleTranslation": "我再也无法忍受这种痛苦了。",
+      "difficulty": 2
+    },
+    {
+      "english": "beard",
+      "chinese": "胡须",
+      "phonetic": "/bɪərd/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "He grew a long beard.",
+      "exampleTranslation": "他留了长胡子。",
+      "difficulty": 2
+    },
+    {
+      "english": "beast",
+      "chinese": "野兽，畜生",
+      "phonetic": "/biːst/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The lion is known as the king of beasts.",
+      "exampleTranslation": "狮子被称为百兽之王。",
+      "difficulty": 2
+    },
+    {
+      "english": "beat",
+      "chinese": "打，打败",
+      "phonetic": "/biːt/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "Our team beat theirs 3-1.",
+      "exampleTranslation": "我们队以3比1击败了他们队。",
+      "difficulty": 2
+    },
+    {
+      "english": "beautiful",
+      "chinese": "美丽的，漂亮的",
+      "phonetic": "/ˈbjuːtɪfl/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "She wore a beautiful dress.",
+      "exampleTranslation": "她穿了一件漂亮的裙子。",
+      "difficulty": 1
+    },
+    {
+      "english": "beauty",
+      "chinese": "美，美丽",
+      "phonetic": "/ˈbjuːti/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The beauty of nature is amazing.",
+      "exampleTranslation": "大自然的美令人惊叹。",
+      "difficulty": 2
+    },
+    {
+      "english": "because",
+      "chinese": "因为",
+      "phonetic": "/bɪˈkɒz/",
+      "partOfSpeech": "conj.",
+      "exampleSentence": "I stayed home because I was sick.",
+      "exampleTranslation": "我待在家里因为我生病了。",
+      "difficulty": 1
+    },
+    {
+      "english": "become",
+      "chinese": "变成，成为",
+      "phonetic": "/bɪˈkʌm/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "She wants to become a teacher.",
+      "exampleTranslation": "她想成为一名教师。",
+      "difficulty": 1
+    },
+    {
+      "english": "bed",
+      "chinese": "床，床位",
+      "phonetic": "/bed/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "I go to bed at 10 PM.",
+      "exampleTranslation": "我晚上10点上床睡觉。",
+      "difficulty": 1
+    },
+    {
+      "english": "bedroom",
+      "chinese": "卧室",
+      "phonetic": "/ˈbedruːm/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The apartment has two bedrooms.",
+      "exampleTranslation": "公寓有两间卧室。",
+      "difficulty": 1
+    },
+    {
+      "english": "bee",
+      "chinese": "蜜蜂",
+      "phonetic": "/biː/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Bees collect pollen from flowers.",
+      "exampleTranslation": "蜜蜂从花中采集花粉。",
+      "difficulty": 1
+    },
+    {
+      "english": "beef",
+      "chinese": "牛肉",
+      "phonetic": "/biːf/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "I ordered a beef steak for dinner.",
+      "exampleTranslation": "我晚餐点了牛排。",
+      "difficulty": 1
+    },
+    {
+      "english": "beer",
+      "chinese": "啤酒",
+      "phonetic": "/bɪər/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Would you like a glass of beer?",
+      "exampleTranslation": "你想来杯啤酒吗？",
+      "difficulty": 1
+    },
+    {
+      "english": "before",
+      "chinese": "在...之前",
+      "phonetic": "/bɪˈfɔːr/",
+      "partOfSpeech": "prep./conj./adv.",
+      "exampleSentence": "Please finish this before Friday.",
+      "exampleTranslation": "请在星期五之前完成这个。",
+      "difficulty": 1
+    },
+    {
+      "english": "beforehand",
+      "chinese": "预先，事先",
+      "phonetic": "/bɪˈfɔːrhænd/",
+      "partOfSpeech": "adv.",
+      "exampleSentence": "We should prepare everything beforehand.",
+      "exampleTranslation": "我们应该预先准备好一切。",
+      "difficulty": 2
+    },
+    {
+      "english": "beg",
+      "chinese": "乞求，请求",
+      "phonetic": "/beɡ/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I beg you to reconsider your decision.",
+      "exampleTranslation": "我恳求你重新考虑你的决定。",
+      "difficulty": 2
+    },
+    {
+      "english": "begin",
+      "chinese": "开始",
+      "phonetic": "/bɪˈɡɪn/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "The concert will begin at 8 PM.",
+      "exampleTranslation": "音乐会将在晚上8点开始。",
+      "difficulty": 1
+    },
+    {
+      "english": "beginning",
+      "chinese": "开始，开端",
+      "phonetic": "/bɪˈɡɪnɪŋ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "This is just the beginning.",
+      "exampleTranslation": "这只是开始。",
+      "difficulty": 2
+    },
+    {
+      "english": "behalf",
+      "chinese": "代表，利益",
+      "phonetic": "/bɪˈhɑːf/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "I'm calling on behalf of the company.",
+      "exampleTranslation": "我代表公司打电话。",
+      "difficulty": 3
+    },
+    {
+      "english": "behave",
+      "chinese": "行为，举止",
+      "phonetic": "/bɪˈheɪv/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "The children behaved well at the party.",
+      "exampleTranslation": "孩子们在聚会上表现得很好。",
+      "difficulty": 2
+    },
+    {
+      "english": "behavior",
+      "chinese": "行为，举止",
+      "phonetic": "/bɪˈheɪvjər/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "His behavior was unacceptable.",
+      "exampleTranslation": "他的行为是不可接受的。",
+      "difficulty": 2
+    },
+    {
+      "english": "behind",
+      "chinese": "在...后面",
+      "phonetic": "/bɪˈhaɪnd/",
+      "partOfSpeech": "prep./adv.",
+      "exampleSentence": "The car behind us is driving too fast.",
+      "exampleTranslation": "我们后面的车开得太快了。",
+      "difficulty": 1
+    },
+    {
+      "english": "being",
+      "chinese": "存在，生物",
+      "phonetic": "/ˈbiːɪŋ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "Human beings are social creatures.",
+      "exampleTranslation": "人类是社会性生物。",
+      "difficulty": 2
+    },
+    {
+      "english": "belief",
+      "chinese": "信念，信仰",
+      "phonetic": "/bɪˈliːf/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "She has a strong belief in justice.",
+      "exampleTranslation": "她对正义有坚定的信念。",
+      "difficulty": 2
+    },
+    {
+      "english": "believe",
+      "chinese": "相信，认为",
+      "phonetic": "/bɪˈliːv/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "I believe you are right.",
+      "exampleTranslation": "我相信你是对的。",
+      "difficulty": 1
+    },
+    {
+      "english": "bell",
+      "chinese": "钟，铃",
+      "phonetic": "/bel/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "The church bell rings every hour.",
+      "exampleTranslation": "教堂的钟每小时敲一次。",
+      "difficulty": 1
+    },
+    {
+      "english": "belong",
+      "chinese": "属于",
+      "phonetic": "/bɪˈlɒŋ/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "This book belongs to me.",
+      "exampleTranslation": "这本书是我的。",
+      "difficulty": 2
+    },
+    {
+      "english": "beloved",
+      "chinese": "心爱的，挚爱的",
+      "phonetic": "/bɪˈlʌvd/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "She is my beloved daughter.",
+      "exampleTranslation": "她是我心爱的女儿。",
+      "difficulty": 2
+    },
+    {
+      "english": "below",
+      "chinese": "在...下面",
+      "phonetic": "/bɪˈləʊ/",
+      "partOfSpeech": "prep./adv.",
+      "exampleSentence": "The temperature dropped below zero.",
+      "exampleTranslation": "温度降到了零度以下。",
+      "difficulty": 1
+    },
+    {
+      "english": "belt",
+      "chinese": "腰带，地带",
+      "phonetic": "/belt/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "He wore a leather belt.",
+      "exampleTranslation": "他系着一条皮带。",
+      "difficulty": 2
+    },
+    {
+      "english": "bench",
+      "chinese": "长凳，工作台",
+      "phonetic": "/bentʃ/",
+      "partOfSpeech": "n.",
+      "exampleSentence": "We sat on a bench in the park.",
+      "exampleTranslation": "我们坐在公园的长凳上。",
+      "difficulty": 2
+    },
+    {
+      "english": "bend",
+      "chinese": "弯曲，使弯曲",
+      "phonetic": "/bend/",
+      "partOfSpeech": "v./n.",
+      "exampleSentence": "Bend your knees when you lift heavy objects.",
+      "exampleTranslation": "提重物时要弯曲膝盖。",
+      "difficulty": 2
+    },
+    {
+      "english": "beneath",
+      "chinese": "在...之下",
+      "phonetic": "/bɪˈniːθ/",
+      "partOfSpeech": "prep./adv.",
+      "exampleSentence": "The treasure was buried beneath the tree.",
+      "exampleTranslation": "宝藏埋在树下。",
+      "difficulty": 2
+    },
+    {
+      "english": "beneficial",
+      "chinese": "有益的，有利的",
+      "phonetic": "/ˌbenɪˈfɪʃl/",
+      "partOfSpeech": "adj.",
+      "exampleSentence": "Exercise is beneficial to your health.",
+      "exampleTranslation": "运动对你的健康有益。",
+      "difficulty": 2
+    },
+    {
+      "english": "benefit",
+      "chinese": "利益，好处",
+      "phonetic": "/ˈbenɪfɪt/",
+      "partOfSpeech": "n./v.",
+      "exampleSentence": "Regular exercise has many benefits.",
+      "exampleTranslation": "定期运动有很多好处。",
+      "difficulty": 2
+    },
+    {
+      "english": "beside",
+      "chinese": "在...旁边",
+      "phonetic": "/bɪˈsaɪd/",
+      "partOfSpeech": "prep.",
+      "exampleSentence": "Come and sit beside me.",
+      "exampleTranslation": "过来坐在我旁边。",
+      "difficulty": 1
+    },
+    {
+      "english": "besides",
+      "chinese": "除...之外，而且",
+      "phonetic": "/bɪˈsaɪdz/",
+      "partOfSpeech": "prep./adv.",
+      "exampleSentence": "Besides English, she speaks Spanish.",
+      "exampleTranslation": "除了英语，她还说西班牙语。",
+      "difficulty": 2
+    },
+    {
+      "english": "best",
+      "chinese": "最好的",
+      "phonetic": "/best/",
+      "partOfSpeech": "adj./adv.",
+      "exampleSentence": "She is the best student in the class.",
+      "exampleTranslation": "她是班上最好的学生。",
+      "difficulty": 1
+    },
+    {
+      "english": "bet",
+      "chinese": "打赌，赌注",
+      "phonetic": "/bet/",
+      "partOfSpeech": "v./n.",
+      "exampleSentence": "I bet you can't solve this puzzle.",
+      "exampleTranslation": "我打赌你解不出这个谜题。",
+      "difficulty": 2
+    },
+    {
+      "english": "betray",
+      "chinese": "背叛，出卖",
+      "phonetic": "/bɪˈtreɪ/",
+      "partOfSpeech": "v.",
+      "exampleSentence": "He felt betrayed by his best friend.",
+      "exampleTranslation": "他感到被最好的朋友背叛了。",
+      "difficulty": 2
+    },
+    {
+      "english": "better",
+      "chinese": "更好的",
+      "phonetic": "/ˈbetər/",
+      "partOfSpeech": "adj./adv.",
+      "exampleSentence": "This solution is better than the previous one.",
+      "exampleTranslation": "这个解决方案比之前的更好。",
+      "difficulty": 1
+    },
+    {
+      "english": "between",
+      "chinese": "在...之间",
+      "phonetic": "/bɪˈtwiːn/",
+      "partOfSpeech": "prep.",
+      "exampleSentence": "The shop is between the bank and the post office.",
+      "exampleTranslation": "商店在银行和邮局之间。",
+      "difficulty": 1
+    },
+    {
+      "english": "beyond",
+      "chinese": "超过，在...之外",
+      "phonetic": "/bɪˈjɒnd/",
+      "partOfSpeech": "prep./adv.",
+      "exampleSentence": "The beauty of the sunset was beyond description.",
+      "exampleTranslation": "日落的美丽难以言表。",
+      "difficulty": 2
+    }
+  ]
+}
