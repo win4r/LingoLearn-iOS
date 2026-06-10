@@ -2,7 +2,7 @@
 //  LingoLearnUITestsLaunchTests.swift
 //  LingoLearnUITests
 //
-//  Created by charles qin on 12/14/25.
+//  Created by charles qin on 6/9/26.
 //
 
 import XCTest

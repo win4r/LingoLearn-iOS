@@ -1,55 +1,93 @@
+//
+//  Word.swift
+//  LingoLearn
+//
+
 import Foundation
 import SwiftData
 
-enum WordCategory: String, Codable, CaseIterable {
-    case cet4 = "CET-4"
-    case cet6 = "CET-6"
+enum WordCategory: String, CaseIterable, Identifiable, Codable {
+    case cet4 = "CET4"
+    case cet6 = "CET6"
+
+    var id: String { rawValue }
+    var displayName: String { rawValue }
 }
 
-enum MasteryLevel: String, Codable, CaseIterable {
-    case new = "New"
-    case learning = "Learning"
-    case reviewing = "Reviewing"
-    case mastered = "Mastered"
+enum LearningStatus: String, CaseIterable, Identifiable {
+    case new
+    case learning
+    case mastered
+
+    var id: String { rawValue }
+
+    var displayName: String {
+        switch self {
+        case .new: "新学"
+        case .learning: "学习中"
+        case .mastered: "已掌握"
+        }
+    }
 }
 
 @Model
 final class Word {
-    @Attribute(.unique) var id: UUID
-    var english: String
-    var chinese: String
-    var phonetic: String
-    var partOfSpeech: String
-    var exampleSentence: String
-    var exampleTranslation: String
-    var category: WordCategory
-    var difficulty: Int
+    var english: String = ""
+    var phonetic: String = ""
+    var meaning: String = ""
+    var example: String = ""
+    var exampleTranslation: String = ""
+    var categoryRaw: String = WordCategory.cet4.rawValue
 
-    // SM-2 Algorithm Fields
-    var easeFactor: Double = 2.5
-    var interval: Int = 0
-    var repetitions: Int = 0
-    var nextReviewDate: Date?
-
-    // User Interaction
+    // 学习状态（SM-2）
+    var statusRaw: String = LearningStatus.new.rawValue
     var isFavorite: Bool = false
-    var masteryLevel: MasteryLevel = MasteryLevel.new
-    var timesStudied: Int = 0
-    var timesCorrect: Int = 0
-    var lastStudiedDate: Date?
-    var dateAdded: Date
+    var repetition: Int = 0
+    var intervalDays: Int = 0
+    var easeFactor: Double = 2.5
+    var nextReviewDate: Date?
+    var lastReviewDate: Date?
+    var firstLearnedDate: Date?
+    var correctCount: Int = 0
+    var wrongCount: Int = 0
 
-    init(english: String, chinese: String, phonetic: String, partOfSpeech: String,
-         exampleSentence: String, exampleTranslation: String, category: WordCategory, difficulty: Int) {
-        self.id = UUID()
+    init(
+        english: String,
+        phonetic: String,
+        meaning: String,
+        example: String,
+        exampleTranslation: String,
+        category: WordCategory
+    ) {
         self.english = english
-        self.chinese = chinese
         self.phonetic = phonetic
-        self.partOfSpeech = partOfSpeech
-        self.exampleSentence = exampleSentence
+        self.meaning = meaning
+        self.example = example
         self.exampleTranslation = exampleTranslation
-        self.category = category
-        self.difficulty = difficulty
-        self.dateAdded = Date()
+        self.categoryRaw = category.rawValue
+    }
+
+    var category: WordCategory {
+        get { WordCategory(rawValue: categoryRaw) ?? .cet4 }
+        set { categoryRaw = newValue.rawValue }
+    }
+
+    var status: LearningStatus {
+        get { LearningStatus(rawValue: statusRaw) ?? .new }
+        set { statusRaw = newValue.rawValue }
+    }
+
+    /// 清空学习状态（重置进度时使用）
+    func resetLearningState() {
+        statusRaw = LearningStatus.new.rawValue
+        isFavorite = false
+        repetition = 0
+        intervalDays = 0
+        easeFactor = 2.5
+        nextReviewDate = nil
+        lastReviewDate = nil
+        firstLearnedDate = nil
+        correctCount = 0
+        wrongCount = 0
     }
 }

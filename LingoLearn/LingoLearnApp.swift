@@ -2,39 +2,40 @@
 //  LingoLearnApp.swift
 //  LingoLearn
 //
-//  Created by charles qin on 12/14/25.
-//
 
-import SwiftUI
 import SwiftData
+import SwiftUI
 
 @main
 struct LingoLearnApp: App {
-    var sharedModelContainer: ModelContainer = {
-        let schema = Schema([
-            Word.self,
-            StudySession.self,
-            DailyProgress.self,
-            UserStats.self,
-            UserSettings.self
-        ])
-        let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
+    private let containerResult: Result<ModelContainer, Error>
 
+    init() {
+        SettingsKeys.registerDefaults()
         do {
-            return try ModelContainer(for: schema, configurations: [modelConfiguration])
+            let container = try ModelContainer(
+                for: Word.self, DailyStudyRecord.self, Achievement.self
+            )
+            containerResult = .success(container)
         } catch {
-            fatalError("Could not create ModelContainer: \(error)")
+            containerResult = .failure(error)
         }
-    }()
+    }
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
-                .modelContainer(sharedModelContainer)
-                .onAppear {
-                    // Seed data on first launch
-                    DataSeederService.seedDataIfNeeded(modelContext: sharedModelContainer.mainContext)
-                }
+            switch containerResult {
+            case .success(let container):
+                RootView()
+                    .modelContainer(container)
+            case .failure(let error):
+                ErrorStateView(
+                    title: "数据初始化失败",
+                    message: "本地数据库无法打开：\(error.localizedDescription)\n请尝试重新安装应用。",
+                    retryTitle: nil,
+                    onRetry: nil
+                )
+            }
         }
     }
 }

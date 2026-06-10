@@ -1,42 +1,25 @@
+# macOS
+.DS_Store
+
 # Xcode
-build/
 DerivedData/
-*.pbxuser
-!default.pbxuser
-*.mode1v3
-!default.mode1v3
-*.mode2v3
-!default.mode2v3
-*.perspectivev3
-!default.perspectivev3
-xcuserdata/
-*.xccheckout
-*.moved-aside
+build/
 *.xcuserstate
-*.xcscmblueprint
-
-# CocoaPods
-Pods/
-!Podfile.lock
-
-# Carthage
-Carthage/Build/
+xcuserdata/
 
 # Swift Package Manager
 .build/
 .swiftpm/
+Package.resolved
 
-# fastlane
+# CocoaPods / Carthage generated artifacts
+Pods/
+Carthage/Build/
+
+# Fastlane / signing
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
-fastlane/test_output
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+fastlane/test_output/
+*.mobileprovision
+*.p12
