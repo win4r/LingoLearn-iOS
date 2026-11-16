@@ -1,3 +1,5 @@
+# [🚀观看我的哔哩哔哩视频](https://space.bilibili.com/3493277319825652)
+
 # LingoLearn 背单词
 
 基于 **SM-2 间隔重复算法** 的 iOS 背单词应用。SwiftUI 全原生实现，预置 **1000+ CET4/CET6 词汇**，零第三方依赖。
